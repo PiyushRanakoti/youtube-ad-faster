@@ -1,0 +1,92 @@
+/* Body */
+body {
+  margin: 0;
+  padding: 0;
+  width: 250px;
+  height: 250px;
+  font-family: 'Roboto', 'Segoe UI', sans-serif;
+  background: #121212;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Card container */
+.popup-card {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(145deg, #1f1f1f, #2c2c2c);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 15px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.5);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.popup-card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 12px 28px rgba(0,0,0,0.6);
+}
+
+/* Header */
+h1 {
+  font-size: 18px;
+  color: #ff4a4a;
+  margin-bottom: 8px;
+}
+
+/* Status */
+.status {
+  font-size: 12px;
+  color: #aaa;
+  margin-bottom: 12px;
+}
+
+.status-active {
+  color: #4CAF50;
+  font-weight: bold;
+  animation: pulse 2s infinite;
+}
+
+/* Pulse animation */
+@keyframes pulse {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.05); opacity: 0.8; }
+}
+
+/* Subtitle */
+h3 {
+  font-size: 14px;
+  color: #ddd;
+  margin-bottom: 12px;
+}
+
+/* Authors */
+.authors h4 {
+  font-size: 12px;
+  color: #bbb;
+  margin-bottom: 5px;
+}
+
+.author-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 6px;
+}
+
+.author-list span {
+  font-size: 11px;
+  color: #fff;
+  background: rgba(255,255,255,0.1);
+  padding: 2px 6px;
+  border-radius: 4px;
+  transition: background 0.2s;
+}
+
+.author-list span:hover {
+  background: rgba(255,74,74,0.4);
+}
