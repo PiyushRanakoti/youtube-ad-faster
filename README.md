@@ -1,6 +1,6 @@
 # 🚀 YouTube Ad Faster
 
-🛑 Tired of YouTube ads slowing you down? This Chrome extension **automatically speeds up** YouTube ads up to **16x** and **mutes** them — so you can get back to your video ASAP! ⚡
+🛑 Tired of Long YouTube ads slowing you down? This Chrome extension **automatically speeds up** YouTube ads up to **15x** — so you can get back to your video ASAP! ⚡
 
 ----------------------------------------------------------------------------------------------------
 
@@ -8,9 +8,7 @@
 
 - 🔍 Detects when an ad is playing on YouTube.
 - ⏩ Speeds up ad playback to **15x**.
-- 🔇 Mutes the audio while the ad is playing.
 - ✅ Returns to normal speed & sound once the main video resumes.
-- 👆 Automatically clicks the **"Skip Ad"** button when available.
 
 ----------------------------------------------------------------------------------------------------
 
