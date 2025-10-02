@@ -7,7 +7,7 @@
 ## 🧠 How It Works
 
 - 🔍 Detects when an ad is playing on YouTube.
-- ⏩ Speeds up ad playback to **16x**.
+- ⏩ Speeds up ad playback to **15x**.
 - 🔇 Mutes the audio while the ad is playing.
 - ✅ Returns to normal speed & sound once the main video resumes.
 - 👆 Automatically clicks the **"Skip Ad"** button when available.
@@ -27,7 +27,7 @@ Click "Load unpacked".
 
 Select the folder of this project.
 
-You're good to go! 🎉
+You're good to go! 🎉 Enjoy Youtube AD free
 -----------------------------------------------------------------------------------------------------
 🛠️ Tech Stack
 
