@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "AD Faster By PNLN",
-  "version" : "1.0",
+  "name": "Youtube AD Faster by Piyush",
+  "version" : "2.0",
   "description": "Automatically Fasten YouTube ads.",
   "permissions": ["storage", "activeTab","scripting"],
   "host_permissions": ["*://www.youtube.com/*"],
@@ -9,12 +9,9 @@
     "default_popup": "popup.html",
     "default_icon": {
       "16": "images/icon16.png",
-      "48": "images/icon48.png",
-      "128": "images/icon128.png"
+      "48": "images/icon16.png",
+      "128": "images/icon16.png"
     }
-  },
-  "background": {
-    "service_worker": "background.js"
   },
   "content_scripts": [
     {
@@ -24,7 +21,7 @@
   ],
   "icons": {
     "16": "images/icon16.png",
-    "48": "images/icon48.png",
-    "128": "images/icon128.png"
+    "48": "images/icon16.png",
+    "128": "images/icon16.png"
   }
 }

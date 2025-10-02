@@ -1,8 +1,17 @@
-1. OPEN CHROME
-2. CLICK ON 3 DOTS ON UPPER RIGHT CORNER
-3. SELECT MORE TOOLS  
-4. SELECT EXTENSIONS  
-5. ENABLE DEVELOPER MODE  
-6. SELECT LOADER UNPACKED  
-7. CHOOSE THIS FILE FOLDER  
-8. ENJOY YOUTUBE AD FREE  
+🔧 How to Activate the Extension
+
+Open Chrome
+
+Click on the ⋮ (three dots) in the top-right corner
+
+Go to More Tools → Extensions
+
+In the top-right, enable Developer mode
+
+Click Load unpacked
+
+Select the folder of this project (where manifest.json is located)
+
+The extension will appear in your extensions list
+
+🎉 Done! You can now enjoy YouTube without annoying ads
